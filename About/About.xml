@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Smokeleaf Plus</name>
+  <author>sashasanley</author>
+  <url>https://github.com/sashasanley/smokeleaf.plus</url>
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>sashasanley.smokeleaf.plus</packageId>
+  <description>Adds an advanced smokeleaf joint that requires research and advanced processing. Smokeleaf Plus provides the same mood boost as regular smokeleaf with almost no impairment, making it a superior choice for colonists who need to stay sharp.
+
+Features:
+- New drug: Advanced Smokeleaf Joint
+- Same mood bonus as regular smokeleaf (+13) with ~83% less consciousness penalty and no movement penalty
+- Same pain relief as regular smokeleaf
+- Gentle wakeful edge (slightly reduced sleep fall rate) and mild munchies
+- Lower addiction and tolerance risk than regular joints
+- Requires research: Smokeleaf Refinement (Industrial tech)
+- Crafted at the Drug Lab: 8x smokeleaf leaves
+
+Supports RimWorld 1.5 and 1.6.</description>
+  <modDependencies>
+    <li>
+      <packageId>ludeon.rimworld</packageId>
+      <displayName>RimWorld</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>ludeon.rimworld</li>
+  </loadAfter>
+</ModMetaData>
