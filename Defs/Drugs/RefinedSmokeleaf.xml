@@ -87,6 +87,7 @@
     <hediffClass>Hediff_High</hediffClass>
     <label>advanced smokeleaf high</label>
     <labelNoun>an advanced smokeleaf high</labelNoun>
+    <description>A refined, smooth smokeleaf high. Still clear-headed, but appetite picks up.</description>
     <defaultLabelColor>(0.5, 1, 0.5)</defaultLabelColor>
     <scenarioCanAdd>true</scenarioCanAdd>
     <maxSeverity>1.0</maxSeverity>
@@ -101,7 +102,7 @@
       <li>
         <painOffset>-0.20</painOffset>
         <hungerRateFactorOffset>0.10</hungerRateFactorOffset>
-        <sleepFallRateFactor>0.95</sleepFallRateFactor>
+        <restFallFactor>0.95</restFallFactor>
         <capMods>
           <li>
             <capacity>Consciousness</capacity>
