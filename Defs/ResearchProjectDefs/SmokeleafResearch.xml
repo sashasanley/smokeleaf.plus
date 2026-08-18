@@ -3,8 +3,8 @@
   <ResearchProjectDef>
     <defName>SmokeleafRefinement</defName>
     <label>Smokeleaf Refinement</label>
-    <description>Advanced herbal processing techniques to extract and purify smokeleaf's active compounds. Advanced smokeleaf joints deliver the same euphoric high with almost no impairment to consciousness and a gentle wakeful edge.\n\nUnlocks the ability to craft advanced smokeleaf joints at the drug lab.</description>
-    <baseCost>1000</baseCost>
+    <description>Advanced herbal processing techniques to extract and purify smokeleaf's active compounds. Smokeleaf cigars deliver the same euphoric high with almost no impairment to consciousness and a gentle wakeful edge.\n\nUnlocks the ability to craft smokeleaf cigars at the drug lab.</description>
+    <baseCost>800</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
       <li>DrugProduction</li>
