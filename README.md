@@ -57,4 +57,4 @@ Shares the vanilla Smokeleaf chemical. Lower risk than regular joints:
 
 ## Screenshots
 
-![Mod preview](About/Preview.jpg)
+![Mod preview](About/Preview.png)
