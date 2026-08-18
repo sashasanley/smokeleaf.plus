@@ -58,8 +58,3 @@ Shares the vanilla Smokeleaf chemical. Lower risk than regular joints:
 ## Screenshots
 
 ![Mod preview](About/Preview.jpg)
-
-## Links
-
-- [GitHub](https://github.com/sashasanley/smokeleaf.plus)
-- If you enjoy the mod, consider supporting development: [Buy Me a Coffee](https://www.buymeacoffee.com/YOURUSERNAME)
