@@ -9,14 +9,6 @@
   </supportedVersions>
   <packageId>sashasanley.smokeleaf.plus</packageId>
   <description>Adds a smokeleaf cigar that requires research and advanced processing. Smokeleaf Plus provides the same mood boost as regular smokeleaf with almost no impairment, making it a superior choice for colonists who need to stay sharp.
-
-Features:
-- New drug: Smokeleaf Cigar
-- Same mood bonus as regular smokeleaf (+13) with ~83% less consciousness penalty and no movement penalty
-- Same pain relief as regular smokeleaf
-- Lower addiction and tolerance risk than regular joints
-- Requires research: Smokeleaf Refinement
-- Crafted at the Drug Lab: 8x smokeleaf leaves
 </description>
   <modDependencies>
     <li>
